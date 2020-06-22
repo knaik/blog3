@@ -16,3 +16,5 @@ For gpu accelerated flac encoding, make sure your nvidia gpu is set to force use
 
 
 My graphics card supports opencl afaik. but cuetools seems to default to the integrated with no way of changing. 
+
+Libflac 3 seems Ike the best tradeoff between time and compression 
