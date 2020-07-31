@@ -1,0 +1,1 @@
+My current setup is the HP OMEN i7 hexacore, 16gb ram, 1tbhdd, 512 nvmessd, 2070maxq, 1080p 144hz ips display
