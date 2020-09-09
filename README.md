@@ -5,5 +5,7 @@ The link to this blog is [knaik.github.io/blog3](knaik.github.io/blog3)  or you 
 
 The main blog is the [knaik.github.io/](knaik.github.io)  page, and that's a little messy but has more fleshed out writing and more interesting articles.
 
+I also have person HR data recorded using the garmin hrm strap, I am releasing it the public domain. Similar to https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records except less organized and less structured.
+
 ## License
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
