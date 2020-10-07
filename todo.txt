@@ -18,3 +18,158 @@ Technica 		Oct 24-25, 2020 + workshop October 23-October 25, 2020  MLH (SWAG)
 
 pydata global 	Nov 11-15th !!
 boston hacks    Nov 14-15th (application not open) --fit tech
+
+
+
+	fixing/update my resume and linkedin !!!
+setup cuda tensorflow type
+
+	medhacks 		Sept  4 -  6 MLH (no SWAG) confirmed
+
+RU Fitness Run 	Sep   7 - 27 Goal is 30 miles, 10 miles a week.
+	penn apps 		Sept 11 - 13 (Mentor piazza) access to workshops including jane street, HRT, SCM, connected with people
+	**Hop Hacks     Sept 11 - 13 northropgrumman capture the flag, crypto, steg, revengineering, forgot networking and 
+
+Sept 14 Preeti Alani 5:30pm 
+		daughter Sachi  
+		
+		
+		Q&A Meet/Greet  Sept 15
+		amazon career   Sept 16 
+	Sig Sesquahana 	Sept 17th at 6 PM EST theen meeting
+IBM zday        Sept 15 - 16
+
+
+Sept 21 Preeti Alani 5:30pm 
+		daughter Sachi
+
+Sig Brainteaser Sept 29  7:30pm – Puzzle set 2.0 
+https://rutgersqfc.us11.list-manage.com/track/click?u=d4722e1c7cf814ac877111e68&id=ca9ee11282&e=9dd4555ed7
+
+ivyhacks 		Oct   1 - 4 confirmed (applied as ambassador?)
+Nasa SpaceApps  Oct   2 - 4
+
+This email serves as your attendance confirmation for the Stanford Institute for Human-Centered Artificial Intelligence (HAI) conference on Triangulating Intelligence: Melding Neuroscience, Psychology, and AI on October 7, 2020 at 9:00am PDT.
+
+nlp summit 		Oct   6 -8, (Lectures) 
+nlp workshops   Oct  14-16 
+
+HackGT 7 mentor Oct  16-18, Applied as mentor
+DubHacks 2020 	Oct  17-18	Applied as hacker, pivot to mentor?
+
+Technica 		Oct 23-25, 2020 + workshop October 23-October 25, 2020  MLH (SWAG) **Mentor?
+	
+TechTogBoson	Nov  6-8  Applied to Mentor**
+
+pydata global 	Nov 11-15th !!
+boston hacks    Nov 14-15th (application not open) --fit tech **Mentor?
+
+TechTg NY		Dec  4 - 6 (Mentoring) applied**
+
+
+denops jenkins
+jenkins
+ansible
+
+
+
+sept 7 
+Choose one of our 3 distances in our Virtual Run/Walk Challenge taking place September 7 - September 27. Complete 15, 30 or 45 miles over 3 weeks running outside or on a treadmill. Log your weekly total miles into a form we will send you via email. Weekly emails, virtual running classes, and raffle prizes will be included. Join us today and get healthy and have fun running or walking with the Rutgers Community.
+
+15 Mile Challenge = Average 5 miles per week
+30 Mile Challenge = Average 10 miles per week
+45 Mile Challenge = Average 15 miles per week
+
+Categories
+1
+Tell me about yourself.
+No answer saved
+2
+What is your greatest strength?
+No answer saved
+3
+What is your greatest weakness?
+No answer saved
+4
+Why should we hire you?
+No answer saved
+5
+Why do you want to work here?
+No answer saved
+6
+Tell me about a time you showed leadership.
+No answer saved
+7
+Tell me about a time you were successful on a team.
+No answer saved
+8
+What would your co-workers say about you?
+No answer saved
+9
+Why do you want to leave your current role?
+No answer saved
+10
+Describe your most challenging project.
+No answer saved
+11
+Tell me about something you’ve accomplished that you are proud of.
+No answer saved
+12
+Can you explain your employment gap?
+No answer saved
+13
+What are your salary expectations?
+No answer saved
+14
+What do you like to do outside of work?
+No answer saved
+15
+Tell me about a time you had to manage conflicting priorities.
+No answer saved
+16
+Where do you see yourself in 5 years?
+No answer saved
+17
+Describe your leadership style.
+No answer saved
+18
+Tell me about a time you failed or made a mistake.
+No answer saved
+19
+Tell me about a time you worked with a difficult person.
+No answer saved
+20
+Tell me about a time you had to persuade someone.
+No answer saved
+21
+Tell me about a time you disagreed with someone.
+No answer saved
+22
+Tell me about a time you created a goal and achieved it.
+No answer saved
+23
+Tell me about a time you surpassed people’s expectations.
+No answer saved
+24
+Tell me about a time you had to handle pressure.
+No answer saved
+25
+Tell me about a time you had to learn something quickly.
+No answer saved
+26
+Do you have any questions for me? 
+
+
+Karan Nair: https://www.linkedin.com/in/karan-naik-0b1062a9/ 
+
+Bio:
+
+Karan Naik is a Rutgers Alumni with a Bachelor's in Computer Science. Outside of being an Assistant Researcher at the Computational Brain Lab at Rutgers, he is an avid chess & badminton player, weight lifter, and archer. When he's not in the gym, he spends his spare time tinkering with Arduino boards and Raspberry Pis. His current hobbies include taking OCW/edX classes and playing chess online. He is working through the Game Theory course from OpenYaleCourses. He is very interested in the intersection of computer science with data science and how it can be applied to medicine and finance. 
+
+Technical:
+
+Data science, signal processing and machine learning techniques using Python libraries(Scipy,Numpy,Matplotlib). Raspberry Pi and Arduino hardware/IOTs hacking. Java, Python, Matlab debugging and SQL. General understanding/ basic certification of AWS and GCP, SageMaker and setting up Cloud Compute. Setting up Linode. Setting up a web server using the LAMP stack and how to use a Raspberry Pi as a server. Setup a program to interface and or build with Amazon Alexa voice skill. Currently have Raspberry PI 2, 3b+ and 4, an Arudino Kit, and ESP32 on hand and can help issues relating to setting them up. Also ffmpeg and youtube-dl. 
+
+
+
+NLP Summit
